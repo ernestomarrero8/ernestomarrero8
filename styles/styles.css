@@ -309,23 +309,42 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 80%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
+  width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 50%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .azure {
+  width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .microsoft {
+  width: 90%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
+.about-stats .progress-bars .progress-bar .progress-con .progress .linux {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .docker {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .kubernetes {
+  width: 65%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .virtualization {
+  width: 95%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .networking {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .documentation {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .communication {
+  width: 90%;
+}
+
 
 .stat-title {
   text-transform: uppercase;
